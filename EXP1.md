@@ -102,135 +102,29 @@ iterate()
 
 
 
-
-
-
-
-
-
-
-
-
 ### Output:
 
 ### i.)do…while: 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+![image](https://github.com/user-attachments/assets/3e2f05cf-21ea-4da6-92bd-50e87b81c080)
 
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-Character and string input
-Enter a positive value for START: hello
-Enter a positive value for END: y
-Enter a valid positive number. 
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
 
 
 ### ii.) while…do 
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+![image](https://github.com/user-attachments/assets/97e5d742-8bb4-48fc-bf90-e4faba76265f)
 
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-
-Character and string input
-Enter a positive value for START: abc
-Enter a positive value for END: 100
-Enter a valid positive number. 
-
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-
-
-```
 
 
 ### iii.) switch 
-```
-Positive numbers
-Enter a value for N: 1
-odd
+![image](https://github.com/user-attachments/assets/c10589a1-0ac1-4afd-9d5a-ca00b43e5959)
 
-Negative numbers
-Enter a value for N: -10
-even
-
-
-Character and string input
-Enter a value for N: hello
-Enter a valid number.
-
-
-Null input
-Enter a value for N:
-Enter a valid number. 
-
-```
 
 ### iv.) if else
-```
+![image](https://github.com/user-attachments/assets/322feb67-b8ab-443b-b343-67c023301877)
 
-Positive numbers
-Enter a value for A: 1
-Enter a value for B: 1
-A is equal to B.
-
-
-Negative numbers
-Enter a value for A: -10
-Enter a value for B: 5 B
-is greater than A.
-
-
-Character and string input
-Enter a value for A: hello
-Enter a value for B: y
-Enter a valid number.
-
-
-Null input
-Enter a value for A:
-Enter a value for B:
-Enter a valid number. 
-```
 
 
 ### v.) for 
-```
-Characters
-Enter a string: say
-115 97 121
-
-Number
-Enter a string: 1543
-49 53 52 51
-
-Null input
-Enter a string: 
-```
-
-
+![image](https://github.com/user-attachments/assets/29c5278c-2377-489e-96e3-33542f51da09)
 
 
 
