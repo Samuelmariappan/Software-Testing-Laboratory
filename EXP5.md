@@ -55,39 +55,8 @@ except ValueError:
 
 ```
 ### Output:
-```
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 2
-Element is present at index 0
 
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 5
-Element is not present in array
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 10
-Element is present at index 3
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: ddf
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched:  
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: %
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 20
-Element is not present in array
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 3
-Element is present at index 1
-```
+![image](https://github.com/user-attachments/assets/6b165f48-0954-43be-8282-a80320c7f738)
 
 
 ### Result:
