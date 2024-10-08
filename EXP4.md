@@ -1,7 +1,7 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
 
 ### DATE:                                                                            
-### REGISTER NUMBER :212222040142
+### REGISTER NUMBER :212222040142 
 
 
 ### AIM: 
@@ -43,36 +43,9 @@ else:
 ```
 
 ### Output:
+![image](https://github.com/user-attachments/assets/cb92e332-eb77-485a-9bdc-45edb01ef468)
 
-```
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 143
-Not Armstrong Number
 
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 153
-Armstrong Number
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: -25
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: -10
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 1
-Armstrong Number
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input:  
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: sh
-Enter a Positive Integer.
-```
 
 
 
